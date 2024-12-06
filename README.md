@@ -7,7 +7,7 @@ Hi, I'm Faraytodi Atmajaya! 👋
 - 🌱 I'm currently learning web developer
 - 💬 Ask me about...
 - 📫 How to contact me: just DM my instagram
-- Interesting facts: 🤔
+- ⚡ Interesting facts: 🤔
 
 ## My Projects
 - [Project 1] (link)
