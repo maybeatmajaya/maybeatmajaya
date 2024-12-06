@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**maybeatmajaya/maybeatmajaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Faraytodi Atmajaya! 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Mahasiswa Teknik Informatika
+- 🌱 I'm currently learning web developer
+- 💬 Ask me about...
+- 📫 How to contact me: just DM my instagram
+- Interesting facts: 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Project 1] (link)
+- [Project 2] (link)
+- [Project 3] (link)
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybeatmajaya&show_icons=true&theme=radical)
