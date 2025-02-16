@@ -1,4 +1,4 @@
-# MaybeAtmajaya
+# Maybeatmajaya
 
 # MY STAT :
 
